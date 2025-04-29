@@ -27,13 +27,6 @@ BioFilterLib es una biblioteca de filtros digitales optimizada para Arduino Due,
 
 ## Instalación
 
-### Usando el Gestor de Bibliotecas de Arduino
-
-1. Abre el IDE de Arduino
-2. Ve a Sketch -> Include Library -> Manage Libraries...
-3. Busca "BioFilterLib"
-4. Selecciona la biblioteca y haz clic en "Install"
-
 ### Instalación manual
 
 1. Descarga este repositorio como archivo ZIP
@@ -474,9 +467,3 @@ Moreno, S.E. (2025). BioFilterLib: Una librería de filtros digitales optimizada
 ## Contacto
 
 Si tiene preguntas, sugerencias o comentarios, por favor abra un issue en este repositorio.
-
-## Agradecimientos
-
-- [ARM](https://www.arm.com/) por la biblioteca CMSIS-DSP
-- [Arduino](https://www.arduino.cc/) por la plataforma de desarrollo
-- A todos los colaboradores que han hecho posible este proyecto
