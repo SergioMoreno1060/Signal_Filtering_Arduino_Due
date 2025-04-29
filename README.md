@@ -440,6 +440,9 @@ Para verificar el correcto funcionamiento de los filtros:
 3. Visualice la entrada y salida en tiempo real mediante Serial Plotter
 4. Analice el espectro de frecuencia de la señal antes y después del filtrado
 
+Img1. Ejemplo de conexiones para pruebas con un generador de señales
+![arduino_laptop_signal_simulator](https://github.com/user-attachments/assets/c4e7913f-f17a-4331-a17b-4e8a701398da)
+
 ## Contribución
 
 Las contribuciones a BioFilterLib son bienvenidas. Por favor, siga estos pasos:
