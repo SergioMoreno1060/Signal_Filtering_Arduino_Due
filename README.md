@@ -440,12 +440,9 @@ Para verificar el correcto funcionamiento de los filtros:
 3. Visualice la entrada y salida en tiempo real mediante Serial Plotter
 4. Analice el espectro de frecuencia de la señal antes y después del filtrado
 
-![arduino_laptop_signal_simulator](https://github.com/user-attachments/assets/c4e7913f-f17a-4331-a17b-4e8a701398da)
-Conexión Arduino Due con generador de señales y osciloscopio
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/c4e7913f-f17a-4331-a17b-4e8a701398da" alt="arduino_laptop_signal_simulator" width="600" />
-  <p><em>Configuración de prueba: Arduino Due conectado a un generador de señales y osciloscopio</em></p>
+  <p>Conexión Arduino Due con generador de señales y osciloscopio</p>
 </div>
 
 ## Contribución
